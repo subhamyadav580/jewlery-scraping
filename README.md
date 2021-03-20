@@ -28,7 +28,7 @@ A simple web crawling project which crawls a Jewlery website named https://www.h
 
     `scrapy crawl necklace`
 
-## for saving data into csv format
+## for saving data into .csv format
 
    `scrapy crawl necklace -o items.csv`
 
