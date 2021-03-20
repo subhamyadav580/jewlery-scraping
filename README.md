@@ -4,26 +4,26 @@ A simple web crawling project which crawls a Jewlery website named https://www.h
 
 ## Steps to setup the project:
 
-Clone the repository using the command
+1. Clone the repository using the command
 
 `git clone https://github.com/subhamyadav580/jewlery-scraping`
 
-Get inside the project folder
+2. Get inside the project folder
 `cd jewlery-scraping`
 
-Activate the virtual environment
+3. Activate the virtual environment
 
 `soruce myvenv/bin/activate`
 
-Install the dependenices
+4. Install the dependenices
 
 `pip install -r requirements.txt`
 
-Now get into the main project folder
+5. Now get into the main project folder
 
 `cd scrapJewlery`
 
-Start the crawler for crawling the website
+6. Start the crawler for crawling the website
 
 `scrapy crawl necklace`
 
