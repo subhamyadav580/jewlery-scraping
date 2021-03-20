@@ -30,8 +30,8 @@ A simple web crawling project which crawls a Jewlery website named https://www.h
 
 ## for saving data into csv format
 
-    `scrapy crawl necklace -o items.csv`
+   `scrapy crawl necklace -o items.csv`
 
 ## for saving data into .json format
 
-     `scrapy crawl necklace -o items.json`
+   `scrapy crawl necklace -o items.json`
